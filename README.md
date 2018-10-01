@@ -1,2 +1,1 @@
-
-practice of HTML, CSS
+HTML & CSS practice
