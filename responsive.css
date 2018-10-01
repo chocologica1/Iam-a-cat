@@ -20,8 +20,9 @@
   width: 85%;
 }
   
-.top-wrapper {
-  padding-top: 75px;
+.top-img {
+  position: relative;
+  top: 75px;
 }
 
 .photo,.photo-cat2 {
