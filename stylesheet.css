@@ -9,12 +9,11 @@ form, input, div {
 * {
   box-sizing: border-box;
   list-style: none;
-  width: auto;
 }
 
 body {
   font-family: YuGothic, "Yu Gothic Medium", "adobe-clean", sans-serif;
-  width: 100%;
+  width: auto;
   background-color: white;
   color: #333;
   font-weight: 500;
