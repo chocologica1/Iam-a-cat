@@ -20,8 +20,9 @@
   width: 85%;
 }
   
-.header {
+header {
   height: 60px;
+  line-height: 60px;
 }
   
 .top-img {
