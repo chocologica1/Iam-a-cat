@@ -19,6 +19,10 @@
 .container {
   width: 85%;
 }
+  
+.top-wrapper {
+  padding-top: 75px;
+}
 
 .photo,.photo-cat2 {
   display: block;
