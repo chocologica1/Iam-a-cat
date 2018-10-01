@@ -20,9 +20,12 @@
   width: 85%;
 }
   
+.header {
+  height: 60px;
+}
+  
 .top-img {
-  position: relative;
-  top: 75px;
+  margin: 60px;
 }
 
 .photo,.photo-cat2 {
