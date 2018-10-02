@@ -19,15 +19,14 @@
 .container {
   width: 85%;
 }
-  
+
 header {
   height: 60px;
   line-height: 60px;
 }
-  
+
 .top-img {
-  margin: 60px;
-  object-fit: cover;
+  margin-top: 60px;
 }
 
 .photo,.photo-cat2 {
