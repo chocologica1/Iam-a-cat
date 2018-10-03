@@ -162,16 +162,13 @@ header a {
   margin-top: 50px;
 }
 
-/*切れずに中の要素もはみ出さずにするのは断念*/
 .cat3-image {
-  background-image:url(picture/photo6.png);
+  background-image:url(photo6.png);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 250px;
 }
 
-
-/*px使わずに正方形はスマホのみ*/
 .sentense-cat3 {
   width: 600px;
   height: 600px;
