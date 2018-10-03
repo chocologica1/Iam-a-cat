@@ -45,24 +45,9 @@ header {
   margin: 0 auto;
   margin-bottom: 60px;
 }
-  
+
 .top-wrapper {
   padding-bottom: 40px;
-}
-
-.photo,.photo-cat2 {
-  display: block;
-  width: 60%;
-  padding: 0;
-  float: none;
-  margin: 0 auto;
-  margin-bottom: 20px;
-}
-
-.right {
-  padding-left: 0 !important;
-  padding-right:0 !important;
-  float: none;
 }
 
 .contents,.contents2 {
@@ -75,9 +60,24 @@ header {
   padding: 0;
 }
 
+.photo,.photo-cat2 {
+  display: block;
+  width: 90%;
+  padding: 0;
+  float: none;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.right {
+  padding-left: 0 !important;
+  padding-right:0 !important;
+  float: none;
+}
+
 .sentence-cat1,.sentence-cat2 {
   display: block;
-  width: 75%;
+  width: 90%;
   padding: 0;
   margin: 0 auto;
   float: none;
