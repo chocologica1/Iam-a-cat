@@ -45,6 +45,10 @@ header {
   margin: 0 auto;
   margin-bottom: 60px;
 }
+  
+.top-wrapper {
+  padding-bottom: 40px;
+}
 
 .photo,.photo-cat2 {
   display: block;
