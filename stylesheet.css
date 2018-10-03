@@ -19,7 +19,7 @@ body {
   font-weight: 500;
 }
 
-hi {
+h1 {
   font-size: 40px;
 }
 
@@ -114,10 +114,18 @@ header a {
   float: left;
 }
 
+.photo.right {
+  padding-right: 0;
+  padding-left: 40px;
+}
+
+.sentence-cat1.right {
+  padding-left: 0;
+  padding-right: 40px;
+}
+
 .right {
   float: right;
-  padding-left: 0px !important;
-  padding-right: 40px !important;
 }
 
 .cat2 {
@@ -132,8 +140,15 @@ header a {
   margin-top:100px;
   display: inline-block;
   width: 50%;
-  padding-left: 40px;
   float: left;
+}
+
+.one {
+  padding-right: 40px;
+}
+
+.two {
+  padding-left: 40px;
 }
 
 .photo-cat2 {
@@ -149,7 +164,7 @@ header a {
 
 /*切れずに中の要素もはみ出さずにするのは断念*/
 .cat3-image {
-  background-image:url(photo6.png);
+  background-image:url(picture/photo6.png);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 250px;
