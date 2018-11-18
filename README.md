@@ -21,5 +21,8 @@ ProgateのHTML/CSS学習コース、道場コース修了後初めての制作�
 https://note.mu/chizumi_/n/n43e918e99656
 <br>
 <h4>プレビュー</h4>
-![desktop](https://user-images.githubusercontent.com/43476091/48669035-46048080-eb3e-11e8-98a5-279c1cbac42c.png)
-![smartphone](https://user-images.githubusercontent.com/43476091/48669042-5d436e00-eb3e-11e8-86ec-705e31314474.png)
+デスクトップ表示
+<img src="https://user-images.githubusercontent.com/43476091/48669035-46048080-eb3e-11e8-98a5-279c1cbac42c.png" alt="desktop">
+<br>
+スマートフォン表示
+<img src="https://user-images.githubusercontent.com/43476091/48669042-5d436e00-eb3e-11e8-86ec-705e31314474.png" alt="smartphone">
