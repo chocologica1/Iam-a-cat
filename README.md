@@ -1,5 +1,5 @@
 # Iam-a-cat
-HTML/CSSの練習用サンプルサイト
+HTML/CSSの練習用サンプルサイト<br>
 ProgateのHTML/CSS学習コース、道場コース修了後初めての制作物です。
 <br>
 <h3>制作時期</h3>
